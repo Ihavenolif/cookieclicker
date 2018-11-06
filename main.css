@@ -1,5 +1,4 @@
 #moneytext{
-	position: relative;
 	text-align: center;
 	z-index: -1;
 }
@@ -10,14 +9,15 @@
 	margin: auto;
 	display: block;
 	height: 40px;
-	width: 100px;
+    width: 100px;
+    top: 0px;
 }
 
 .cookie{
     margin: auto;
     position: relative;
     display: block;
-    top: 50px;
+    top: 40px;
     z-index: 0;
 }
 
